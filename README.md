@@ -1,5 +1,5 @@
 # Online-Reporitory-of-Question-Papers
-Web based 'Online repository of question papers' built using MERN stack.
+Web based 'Online repository of question papers' built using MERN (MongoDB, Express, ReactJS, NodeJS) stack.
 
 Project Link - https://drive.google.com/drive/folders/1GkR0SYnoRnslAcvsPD0t3u0wF1ZRFkmb?usp=sharing
 
@@ -14,5 +14,5 @@ Download the project to one common directory and then run "npm install" in the t
 Then first run the backend using command 'node index.js'. 
 Then run the frontend and admin panel using command 'npm start' separately.
 The web app project will soon start on your localhost using the default browser.
-![Frontend](https://user-images.githubusercontent.com/56169280/126907303-f7505317-a3fc-4bab-ae2e-db55030a3171.png)
-![Users](https://user-images.githubusercontent.com/56169280/126907375-6ec73166-db9f-4ada-ad6a-b49e75756a8c.png)
+
+![Frontend](https://user-images.githubusercontent.com/56169280/126907396-752f2a4f-add3-4bac-8089-124663a8dca8.png)
